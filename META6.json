@@ -1,0 +1,14 @@
+{
+  "meta-version": "0",
+  "perl": "6.d",
+  "name": "raku-test",
+  "version": "1.0.0",
+  "license"       : "Artistic-2.0",
+  "build-depends" : [ ],
+  "test-depends"  : [ ],
+  "depends"       : [ ],
+  "provides": {
+    "Raku::Test": "lib/Raku/Test.rakumod"
+  },
+  "resources": [ "text" ]
+}

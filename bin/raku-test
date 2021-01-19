@@ -1,0 +1,6 @@
+#!/usr/bin/env raku
+
+use Raku::Test;
+
+say Raku::Test::text();
+say %?RESOURCES<text>.absolute;
